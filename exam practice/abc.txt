@@ -1,0 +1,1 @@
+cd "/home/student/Documents/java/java_vs/src/exam practice/" && javac filereader.java && java filereader
